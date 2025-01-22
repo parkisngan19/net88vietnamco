@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+NET88 ⚡️ NET 88 | Link Đăng Nhập Trang Chủ Nhà Cái NET88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Net88 <https://net88vietnam.co/>`_ thành lập ngày 14/04/2015, là sân chơi hàng đầu châu Á, đối tác độc quyền của CLB Crystal Palace, cung cấp hơn 578 trò chơi đa dạng như thể thao, live casino, game bài và nổ hũ. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với giao diện thân thiện, dịch vụ chăm sóc khách hàng 24/7, cùng các chương trình khuyến mãi hấp dẫn như thưởng nạp 150% và 500 lượt quay miễn phí, Net88 đã thu hút hơn 500.000 người chơi toàn cầu. Được cấp phép bởi PAGCOR, Net88 đảm bảo sự an toàn, minh bạch và trải nghiệm đẳng cấp cho người chơi.
 
-.. note::
+Doanh nghiệp Net88 có địa web tại https://net88vietnam.co/ – cung cấp link đăng ký, đăng nhập và tin tức chính hãng từ nhà cái Net88 cho thị trường Việt Nam kể từ ngày 1/1/2025.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 275BIS Bà Hom, Khu Phố 5, Quận 6, Hồ Chí Minh, Việt Nam. 
 
-.. toctree::
+Phone: 0943912812. 
 
-   usage
-   api
+Email: info@net88vietnam.co. 
+
+Website: https://net88vietnam.co/ 
+
+#net88 #trangchunet88 #dangkynet88 #dangnhapnet88 #linknet88 #nhacainet88 #net88vietnam_co #net88_casino #net_88
